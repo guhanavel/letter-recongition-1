@@ -1,4 +1,9 @@
 # letter-recon
+An simple and yet failed letter recongition project that was swept under the carpert
+
+
+
+
 credits:
 
 https://pythonprogramming.net/convolutional-neural-network-deep-learning-python-tensorflow-keras/?completed=/loading-custom-data-deep-learning-python-tensorflow-keras/
