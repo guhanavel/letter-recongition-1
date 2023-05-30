@@ -1,8 +1,5 @@
-# letter-recon
-An simple and yet failed letter recongition project that was swept under the carpert
-
-
-
+# letter-recongnition-1
+An simple and yet failed letter recongition project that was swept under the carpet for future use
 
 credits:
 
